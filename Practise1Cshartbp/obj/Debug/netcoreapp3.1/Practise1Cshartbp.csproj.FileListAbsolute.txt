@@ -1,0 +1,13 @@
+C:\Users\Apxb\Documents\C#\Practise1Cshartbp\bin\Debug\netcoreapp3.1\Practise1Cshartbp.exe
+C:\Users\Apxb\Documents\C#\Practise1Cshartbp\bin\Debug\netcoreapp3.1\Practise1Cshartbp.deps.json
+C:\Users\Apxb\Documents\C#\Practise1Cshartbp\bin\Debug\netcoreapp3.1\Practise1Cshartbp.runtimeconfig.json
+C:\Users\Apxb\Documents\C#\Practise1Cshartbp\bin\Debug\netcoreapp3.1\Practise1Cshartbp.runtimeconfig.dev.json
+C:\Users\Apxb\Documents\C#\Practise1Cshartbp\bin\Debug\netcoreapp3.1\Practise1Cshartbp.dll
+C:\Users\Apxb\Documents\C#\Practise1Cshartbp\bin\Debug\netcoreapp3.1\Practise1Cshartbp.pdb
+C:\Users\Apxb\Documents\C#\Practise1Cshartbp\obj\Debug\netcoreapp3.1\Practise1Cshartbp.csproj.AssemblyReference.cache
+C:\Users\Apxb\Documents\C#\Practise1Cshartbp\obj\Debug\netcoreapp3.1\Practise1Cshartbp.AssemblyInfoInputs.cache
+C:\Users\Apxb\Documents\C#\Practise1Cshartbp\obj\Debug\netcoreapp3.1\Practise1Cshartbp.AssemblyInfo.cs
+C:\Users\Apxb\Documents\C#\Practise1Cshartbp\obj\Debug\netcoreapp3.1\Practise1Cshartbp.csproj.CoreCompileInputs.cache
+C:\Users\Apxb\Documents\C#\Practise1Cshartbp\obj\Debug\netcoreapp3.1\Practise1Cshartbp.dll
+C:\Users\Apxb\Documents\C#\Practise1Cshartbp\obj\Debug\netcoreapp3.1\Practise1Cshartbp.pdb
+C:\Users\Apxb\Documents\C#\Practise1Cshartbp\obj\Debug\netcoreapp3.1\Practise1Cshartbp.genruntimeconfig.cache

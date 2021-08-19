@@ -1,0 +1,16 @@
+C:\Users\Apxb\Documents\C#\SuperBank\bin\Debug\net5.0\SuperBank.exe
+C:\Users\Apxb\Documents\C#\SuperBank\bin\Debug\net5.0\SuperBank.deps.json
+C:\Users\Apxb\Documents\C#\SuperBank\bin\Debug\net5.0\SuperBank.runtimeconfig.json
+C:\Users\Apxb\Documents\C#\SuperBank\bin\Debug\net5.0\SuperBank.runtimeconfig.dev.json
+C:\Users\Apxb\Documents\C#\SuperBank\bin\Debug\net5.0\SuperBank.dll
+C:\Users\Apxb\Documents\C#\SuperBank\bin\Debug\net5.0\ref\SuperBank.dll
+C:\Users\Apxb\Documents\C#\SuperBank\bin\Debug\net5.0\SuperBank.pdb
+C:\Users\Apxb\Documents\C#\SuperBank\obj\Debug\net5.0\SuperBank.csproj.AssemblyReference.cache
+C:\Users\Apxb\Documents\C#\SuperBank\obj\Debug\net5.0\SuperBank.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Apxb\Documents\C#\SuperBank\obj\Debug\net5.0\SuperBank.AssemblyInfoInputs.cache
+C:\Users\Apxb\Documents\C#\SuperBank\obj\Debug\net5.0\SuperBank.AssemblyInfo.cs
+C:\Users\Apxb\Documents\C#\SuperBank\obj\Debug\net5.0\SuperBank.csproj.CoreCompileInputs.cache
+C:\Users\Apxb\Documents\C#\SuperBank\obj\Debug\net5.0\SuperBank.dll
+C:\Users\Apxb\Documents\C#\SuperBank\obj\Debug\net5.0\ref\SuperBank.dll
+C:\Users\Apxb\Documents\C#\SuperBank\obj\Debug\net5.0\SuperBank.pdb
+C:\Users\Apxb\Documents\C#\SuperBank\obj\Debug\net5.0\SuperBank.genruntimeconfig.cache
