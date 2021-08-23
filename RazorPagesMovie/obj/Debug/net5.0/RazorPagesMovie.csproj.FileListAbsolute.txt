@@ -149,3 +149,8 @@ C:\Users\Apxb\Documents\C#\RazorPagesMovie\obj\Debug\net5.0\Razor\Models\Delete.
 C:\Users\Apxb\Documents\C#\RazorPagesMovie\obj\Debug\net5.0\Razor\Models\Details.cshtml.g.cs
 C:\Users\Apxb\Documents\C#\RazorPagesMovie\obj\Debug\net5.0\Razor\Models\Edit.cshtml.g.cs
 C:\Users\Apxb\Documents\C#\RazorPagesMovie\obj\Debug\net5.0\Razor\Models\Index.cshtml.g.cs
+C:\Users\Apxb\Documents\C#\RazorPagesMovie\obj\Debug\net5.0\Razor\Pages\Movies\Create.cshtml.g.cs
+C:\Users\Apxb\Documents\C#\RazorPagesMovie\obj\Debug\net5.0\Razor\Pages\Movies\Delete.cshtml.g.cs
+C:\Users\Apxb\Documents\C#\RazorPagesMovie\obj\Debug\net5.0\Razor\Pages\Movies\Details.cshtml.g.cs
+C:\Users\Apxb\Documents\C#\RazorPagesMovie\obj\Debug\net5.0\Razor\Pages\Movies\Edit.cshtml.g.cs
+C:\Users\Apxb\Documents\C#\RazorPagesMovie\obj\Debug\net5.0\Razor\Pages\Movies\Index.cshtml.g.cs
