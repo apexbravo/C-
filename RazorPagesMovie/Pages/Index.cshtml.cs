@@ -10,6 +10,7 @@ namespace RazorPagesMovie.Pages
 {
     public class IndexModel : PageModel
     {
+        public string Message { get; set; }
         private readonly ILogger<IndexModel> _logger;
 
         public IndexModel(ILogger<IndexModel> logger)
@@ -19,7 +20,8 @@ namespace RazorPagesMovie.Pages
 
         public void OnGet()
         {
-
+            Message = "Hello there this is Ablel";
         }
+    
     }
 }
