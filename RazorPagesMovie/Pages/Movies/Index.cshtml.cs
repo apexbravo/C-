@@ -47,7 +47,7 @@ namespace RazorPagesMovie.Pages.Movies
                 movies = movies.Where(x => x.Genre == MovieGenre);
 
             }
-            Genres = new SelectList(await genreQuery.Distinct().ToListAsync();
+            Genres = new SelectList(await genreQuery.Distinct().ToListAsync());
             Movie = await movies.ToListAsync();
         }
     }

@@ -34,7 +34,8 @@ namespace RazorPagesMovie.Models
                         Title = "Ghostbusters 2",
                         ReleaseDate = DateTime.Parse("1984-2-13"),
                         Genre = "Comedy",
-                        Price = 3.43M
+                        Price = 3.43M,
+                        Rating = "R"
                     },
 
                     new Movie
